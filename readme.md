@@ -29,7 +29,7 @@ Before running the assistant, ensure you have the following installed:
 
 ## Setup
 
-1.  **Clone or Download:** Download the Python script (`your_script_name.py`) to your local machine.
+1.  **Clone or Download:** Download the Python script (`index.py`) to your local machine.
 2.  **Install Dependencies:** If you haven't already, install the required Python libraries using pip:
     ```bash
     pip install -r requirements.txt  # If you create a requirements.txt file
@@ -46,10 +46,9 @@ Before running the assistant, ensure you have the following installed:
 
 1.  **Execute the Script:** Open your terminal or command prompt, navigate to the directory where you saved the script, and run:
     ```bash
-    python your_script_name.py
+    python index.py
     ```
-    (Replace `your_script_name.py` with the actual name of your Python file).
-
+    
 2.  **Using the Assistant:**
     * The GUI window will appear, displaying the status as "Waiting for wake word".
     * Speak the configured wake word (default is "Hey Assistant").
